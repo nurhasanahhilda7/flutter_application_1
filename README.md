@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="2025-11-02 (4)" src="https://github.com/user-attachments/assets/c86d30cb-d404-4ef7-9465-8350c46fb83f" /><img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ed833b77-9b24-4eba-8599-a92de40d2095" /># flutter_application_1
+# flutter_application_1
 Tugas kelompok Flutter  
 Hilda Nurhasanah - Hani Firyal - Salisunisa
 
