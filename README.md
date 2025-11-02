@@ -1,6 +1,6 @@
 # flutter_application_1
 Tugas kelompok Flutter  
-Hilda Nurhasanah - Hani Firyal - Salisunisa
+Hilda Nurhasanah & Hani Firyal Salisunisa
 
 ## 📱 Deskripsi
 Aplikasi sederhana Flutter dengan fitur **Login ke Home Page**.  
