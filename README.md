@@ -1,4 +1,4 @@
-# flutter_application_1
+<img width="1366" height="768" alt="2025-11-02 (4)" src="https://github.com/user-attachments/assets/c86d30cb-d404-4ef7-9465-8350c46fb83f" /><img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ed833b77-9b24-4eba-8599-a92de40d2095" /># flutter_application_1
 Tugas kelompok Flutter  
 Hilda Nurhasanah - Hani Firyal - Salisunisa
 
@@ -9,10 +9,11 @@ Menampilkan tampilan login modern dan halaman home dengan daftar destinasi popul
 ## 🖼️ Tampilan Aplikasi
 
 **Halaman Login**
-![Login Page](https://github.com/nurhasanahhilda7/flutter_application_1/blob/main/photo-1500530855697-b586d89ba3ee.jpg)
+![Login Page](https://github.com/nurhasanahhilda7/flutter_application_1/blob/main/2025-11-02%20(4).png)
 
 **Halaman Home**
-![Home Page](https://github.com/nurhasanahhilda7/flutter_application_1/blob/main/photo-1506744038136-46273834b3fb.jpg)
+![Home Page](https://github.com/nurhasanahhilda7/flutter_application_1/blob/main/2025-11-02%20(5).png)
+
 
 ## 👩‍💻 Cara Menjalankan
 1. Buka project di **Android Studio / VS Code**
